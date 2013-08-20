@@ -1,0 +1,6 @@
+angel/assets/
+angel/protected/runtime/
+angel/themes/classic/views/
+
+.tags
+.tags_sorted_by_file
