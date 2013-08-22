@@ -1,6 +1,9 @@
 angel/assets/
 angel/protected/runtime/
 angel/themes/classic/views/
+demo/assets/
+demo/protected/runtime/
+demo/themes/classic/views/
 
 .tags
 .tags_sorted_by_file
