@@ -105,6 +105,7 @@ return array(
 		'urlManager' => array(
 			'urlFormat'    => 'path', // url格式，path 或者 get
 			'appendParams' => FALSE,
+			'showScriptName' => FALSE,
 			'rules'        => array(
 				'pass/oauth/<provider:[a-z0-9]+>' => 'pass/oauth',
 				'oauth/index/<provider:[a-z0-9]+>' => 'oauth/index',
