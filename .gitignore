@@ -1,5 +1,5 @@
-angel/assets/
-angel/protected/runtime/
+angel/assets/*
+angel/protected/runtime/*
 angel/themes/classic/views/
 demos/
 
