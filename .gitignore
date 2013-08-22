@@ -1,5 +1,7 @@
 angel/assets/*
+!angel/assets/README
 angel/protected/runtime/*
+!angel/protected/runtime/README
 angel/themes/classic/views/
 demos/
 
