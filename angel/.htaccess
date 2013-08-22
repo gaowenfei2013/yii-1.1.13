@@ -1,4 +1,4 @@
-RewriteEngine on
+RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond $1 !^(index\\.php|images|robots\\.txt)
-RewriteRule ^(.*)$ /www/yii/angel/index.php/$1 [L]
+RewriteRule ^(.*)$ index.php/$1 [L]
