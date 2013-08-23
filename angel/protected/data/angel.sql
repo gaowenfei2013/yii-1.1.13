@@ -412,7 +412,7 @@ CREATE TABLE `angel_user` (
 
 /*Data for the table `angel_user` */
 
-insert  into `angel_user`(`id`,`username`,`password`,`email`,`phone`,`is_banned`,`need_reset_password`,`login_time`,`login_ip`,`is_email_validated`,`is_phone_validated`,`register_by`) values (1,'admin','$2a$10$895Cw9js67/lDVo2yfiHROHWgRY3bMJtaDBQP/iaZ8IGm66U.ZbvK','','',0,0,0,'',0,0,'username'),(2,'dddddd','$2a$10$NUV10mUStfhMlQDwtLSvlulieXNrMkXDCPEYwYAK7spadqvngZOpi','','',0,0,0,'',0,0,'username'),(3,'ffffff','$2a$10$qvRXouK5kvUVG.e7G7Swd.o7RBbh8qk8BHqg7vtFxv0SWDa2LhlqC','','',0,0,0,'',0,0,'username');
+insert  into `angel_user`(`id`,`username`,`password`,`email`,`phone`,`is_banned`,`need_reset_password`,`login_time`,`login_ip`,`is_email_validated`,`is_phone_validated`,`register_by`) values (1,'admin','$2a$10$895Cw9js67/lDVo2yfiHROHWgRY3bMJtaDBQP/iaZ8IGm66U.ZbvK','1376891686','',0,0,0,'',0,0,'username'),(2,'dddddd','$2a$10$NUV10mUStfhMlQDwtLSvlulieXNrMkXDCPEYwYAK7spadqvngZOpi','','',0,0,0,'',0,0,'username'),(3,'ffffff','$2a$10$qvRXouK5kvUVG.e7G7Swd.o7RBbh8qk8BHqg7vtFxv0SWDa2LhlqC','','',0,0,0,'',0,0,'username');
 
 /*Table structure for table `angel_user_login_record` */
 
